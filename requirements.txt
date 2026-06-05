@@ -1,0 +1,4 @@
+streamlit
+pypdf
+docx2txt
+google-genai
